@@ -98,6 +98,9 @@ int main(void)
 		EndDrawing();
 	}
 	UnloadModel(monk);
+	UnloadTexture(monster);
+	UnloadTexture(spooky);
+	UnloadTexture(texture);
 
 	CloseWindow();
 	return 0;

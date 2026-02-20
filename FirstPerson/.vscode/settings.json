@@ -7,5 +7,6 @@
 		"**/.DS_Store": true,
 		"**/*.o": true,
 		"**/*.exe": true,
-	}
+	},
+	"cmake.sourceDirectory": "C:/Users/longw/OneDrive/Documents/GitHub/Raylib/FirstPerson/build/external/raylib-master"
 }
